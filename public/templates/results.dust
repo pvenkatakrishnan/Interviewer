@@ -1,0 +1,6 @@
+<div id="testResult" style="width:750px;height:550px;">
+	{?data.results}
+		<span>Input: {entry} </span>
+		<span>Result: {result} </span>
+	{/data.results}
+</div>

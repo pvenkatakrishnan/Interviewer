@@ -1,0 +1,13 @@
+{
+    "middleware": {
+        "session": {
+            "module": "memory",
+            "secret": "fa40dcae321fc435d6f5219077f55a63e47d62a8"
+        }
+    },
+    "middleware": {
+        "appsec": {
+            "csrf": false
+        }
+    }
+}

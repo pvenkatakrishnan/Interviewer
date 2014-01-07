@@ -1,0 +1,8 @@
+{>"layouts/master" /}
+ <h1>{@pre type="content" key="step2.greeting"/}</h1>
+<table width="100%" height="500px">
+	<tr>
+		<td> {>"codingArea" /}</td>
+		<td> {>"results" /} </td>
+	</td>
+</table>
